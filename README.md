@@ -17,5 +17,8 @@ Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI 
 
 ## Building:
 ```
-pyinstaller -F --onefile "m3dsflip.py"
+> pyinstaller -F --onefile "m3dsflip.py"
 ```
+
+# Download:
+- **Compiled Download Avaliable [Here]().**
