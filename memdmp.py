@@ -1,4 +1,4 @@
-def read_data_from_offset(filename, offset):
+def read_data_from_offset(filename, offset): # Just an example of what is in m3dsflip.py
     data_list = []
     with open(filename, 'rb') as file:
         # Move the file pointer to the specified offset
