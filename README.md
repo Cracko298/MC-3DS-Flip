@@ -1,19 +1,27 @@
 # Minecraft-3ds-Image-Flip
-Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works" no questions asked.
+- Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works" no questions asked.
+
+# Features:
+- Can Flip Compiled *.3dst Files.
 
 # Usage:
 ### X-Axis Flipping:
 ```
-> .\m3dsflip.exe xflip <image_path>
+> .\m3dsflip xflip <image_path>
 ```
 ### Y-Axis Flipping:
 ```
-> .\m3dsflip.exe yflip <image_path>
+> .\m3dsflip yflip <image_path>
+```
+### 3DST Flipping
+```
+> .\m3dsflip 3dstflip <image_path>
 ```
 ### Help Command:
 ```
 > .\m3dsflip.exe help
 ```
+
 
 ## Building:
 ```
@@ -21,4 +29,4 @@ Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI 
 ```
 
 # Download:
-- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.1.0/m3dsflip.exe).**
+- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.2.0/m3dsflip.exe).**
