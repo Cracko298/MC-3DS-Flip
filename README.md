@@ -2,7 +2,7 @@
 - Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works" no questions asked.
 
 # Features:
-- Can Flip Compiled *.3dst Files.
+- Can Flip Compiled *.3dst Files. ***Only on both X & Y Axis ATM***.
 
 # Usage:
 ### X-Axis Flipping:
