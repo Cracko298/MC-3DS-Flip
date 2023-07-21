@@ -1,5 +1,5 @@
 # Minecraft-3ds-Image-Flip
-- Flips skins from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works".
+- Flips skins (and more) from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works".
 
 # Features:
 - Flips normal *.png Images From Java to MC-3DS.
