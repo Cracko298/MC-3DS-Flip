@@ -24,12 +24,16 @@
 ```
 > .\m3dsflip     =  Call Executable
 > <mode>         =  -c (Color Mode)
-> <image_path>   =  Path to Image
+> <image_path>   =  Path to Image ('xflip' and 'yflip' only support *.png).
 > <command>      =  Commands Such as "yflip" or "3dstflip"
 ```
 ## Building:
 ```
 > pyinstaller -F --onefile "m3dsflip.py" --icon="favicon.ico"
+```
+## Source Usage:
+```
+python m3dsflip.py <mode> <command> <image_path>
 ```
 
 # Download:
