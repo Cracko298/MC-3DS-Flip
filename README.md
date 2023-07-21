@@ -16,6 +16,9 @@
 > .\m3dsflip 3dstflip <image_path>
 > .\m3dsflip -c -invert <image_path>
 > .\m3dsflip -c -green <image_path>
+> .\m3dsflip -c -orange <image_path>
+> .\m3dsflip -c -red <image_path>
+> .\m3dsflip -c -blue <image_path>
 
 #  PNG Commands:
 > .\m3dsflip yflip <image_path>
