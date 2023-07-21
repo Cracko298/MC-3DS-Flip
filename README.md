@@ -3,7 +3,8 @@
 
 # Features:
 - Flips normal *.png Images From Java to MC-3DS.
-- Can Flip Compiled *.3dst Files. ***Only on both X & Y Axis ATM***.
+- Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
+- Change Color of Compiled *.3dst Files. ***See [CLI/CLU Usage]() for additional information***.
 
 # Usage:
 ### CLI/CLU Usage:
