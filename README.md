@@ -40,9 +40,9 @@
 python m3dsflip.py <mode> <command> <image_path>
 ```
 ## Notice:
-- If you decide to invert the color or change it of your *.3DST Skin.
-- I am not responsible for any data that might become corrupted, or if the output is not the desired result.
-- These are experimental settings, and thus aren't as stable as I would like them to be.
+- If you decide to change the color/hue of your *.3DST Skin.
+- **I am not responsible for any data that might become corrupted, or if the output is not the desired result.**
+- Blurry Images on this GitHub page do NOT reflect the quality (enlarged so you can see them).
 
 
 
