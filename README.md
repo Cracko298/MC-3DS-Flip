@@ -6,23 +6,25 @@
 - Can Flip Compiled *.3dst Files. ***Only on both X & Y Axis ATM***.
 
 # Usage:
-### X-Axis Flipping:
+### CLI/CLU Usage:
 ```
+> .\m3dsflip help
+
+> .\m3dsflip 3dstflip <image_path>
+> .\m3dsflip -c -invert <image_path>
+> .\m3dsflip -c -green <image_path>
+
+> .\m3dsflip yflip <image_path>
 > .\m3dsflip xflip <image_path>
 ```
-### Y-Axis Flipping:
+### Help Message:
 ```
-> .\m3dsflip yflip <image_path>
+> .\m3dsflip <mode> <command> <image_path>
 ```
-### 3DST Flipping
-```
-> .\m3dsflip 3dstflip <image_path>
-```
-### Help Command:
-```
-> .\m3dsflip.exe help
-```
-
+> .\m3dsflip     =  Call Executable
+> <mode>         =  -c (Color Mode)
+> <image_path>   =  Path to Image
+> <command>      =  Commands Such as "yflip" or "3dstflip"
 
 ## Building:
 ```
