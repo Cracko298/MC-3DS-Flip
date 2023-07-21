@@ -27,7 +27,7 @@
 ```
 ```
 > .\m3dsflip     =  Call Executable
-> <mode>         =  -c (Color Mode)
+> <mode>         =  -c (Color Mode *Only use when Changing *.3DST Skin Color/Hue).
 > <image_path>   =  Path to Image ('xflip' and 'yflip' only support *.png).
 > <command>      =  Commands Such as "yflip" or "3dstflip"
 ```
