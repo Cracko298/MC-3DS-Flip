@@ -21,14 +21,12 @@
 ```
 > .\m3dsflip <mode> <command> <image_path>
 ```
+```
 > .\m3dsflip     =  Call Executable
-> 
 > <mode>         =  -c (Color Mode)
->
 > <image_path>   =  Path to Image
-> 
 > <command>      =  Commands Such as "yflip" or "3dstflip"
-
+```
 ## Building:
 ```
 > pyinstaller -F --onefile "m3dsflip.py"
