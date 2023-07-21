@@ -29,7 +29,7 @@
 ```
 ## Building:
 ```
-> pyinstaller -F --onefile "m3dsflip.py"
+> pyinstaller -F --onefile "m3dsflip.py" --icon="favicon.ico"
 ```
 
 # Download:
