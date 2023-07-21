@@ -55,7 +55,8 @@ python m3dsflip.py <mode> <command> <image_path>
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/3ae3fe61-8fac-4302-8096-9f5dd22d1fc5" alt="Inverted Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/ba035930-8454-4fe8-867f-35a6b0782d9d" alt="Normal Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/d3f24862-d815-4181-88fd-23064dd219d7" alt="Green Hue Notch Skin">
-    &#x200b;
+</p>
+<p>
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/7cbf415d-d17a-4788-9ec5-5c0b3ee40da8" alt="Red Hue Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/c68fd63c-dd4f-4e46-869b-8b5b263b9a99" alt="Orange Hue Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/c6e15678-b661-45a2-9646-65c6694e0a59" alt="Blue Hue Notch Skin"> 
