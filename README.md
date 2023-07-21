@@ -39,6 +39,12 @@
 ```
 python m3dsflip.py <mode> <command> <image_path>
 ```
+## Notice:
+- If you decide to invert the color or change it of your *.3DST Skin.
+- I am not responsible for any data that might become corrupted, or if the output is not the desired result.
+- These are experimental settings, and thus aren't as stable as I would like them to be.
+
+
 
 # Download:
 - **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.3.0/m3dsflip.exe).**
