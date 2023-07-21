@@ -43,7 +43,7 @@ python m3dsflip.py <mode> <command> <image_path>
 - If you decide to change the color/hue of your *.3DST Skin.
 - **I am not responsible for any data that might become corrupted, or if the output is not the desired result.**
 - Blurry Images on this GitHub page do NOT reflect the quality (enlarged so you can see them).
-
+- These Skin Hue Changes do **NOT** work on all skins. Make sure your skin is a compatible size: ***16.0kb***.
 
 
 # Download:
