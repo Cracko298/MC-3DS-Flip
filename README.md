@@ -5,6 +5,7 @@
 - Flips normal *.png Images From Java to MC-3DS.
 - Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
 - Change Color of Compiled *.3DST Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
+- Removed xflip (Hopefully This Release Only) because of a Bug that can cause Data to become corrupted.
 
 # Usage:
 ### CLI/CLU Usage:
