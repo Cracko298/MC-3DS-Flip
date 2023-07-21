@@ -8,12 +8,15 @@
 # Usage:
 ### CLI/CLU Usage:
 ```
+### Utility Commands:
 > .\m3dsflip help
 
+### 3DST Commands:
 > .\m3dsflip 3dstflip <image_path>
 > .\m3dsflip -c -invert <image_path>
 > .\m3dsflip -c -green <image_path>
 
+### PNG Commands:
 > .\m3dsflip yflip <image_path>
 > .\m3dsflip xflip <image_path>
 ```
