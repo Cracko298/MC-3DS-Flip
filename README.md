@@ -26,13 +26,13 @@
 ```
 ### Help Message:
 ```
-> .\m3dsflip <mode> <command> <image_path>
+> .\m3dsflip <mode> <command/Args> <image_path>
 ```
 ```
 > .\m3dsflip     =  Call Executable
 > <mode>         =  -c (Color Mode *Only use when Changing *.3DST Skin Color/Hue).
+> <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
 > <image_path>   =  Path to Image ('xflip' and 'yflip' only support *.png).
-> <command>      =  Commands Such as "yflip" or "3dstflip"
 ```
 ## Building:
 ```
