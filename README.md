@@ -4,7 +4,7 @@
 # Features:
 - Flips normal *.png Images From Java to MC-3DS.
 - Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
-- Change Color of Compiled *.3dst Files. ***See [CLI/CLU Usage]() for additional information***.
+- Change Color of Compiled *.3dst Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
 
 # Usage:
 ### CLI/CLU Usage:
@@ -43,5 +43,5 @@ python m3dsflip.py <mode> <command> <image_path>
 # Download:
 - **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.3.0/m3dsflip.exe).**
 
-### Video Demonstration:
+### Image/Video Gallery:
 <embed>https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/500cb648-111f-4c9f-a80b-c91ab71216a8</embed>
