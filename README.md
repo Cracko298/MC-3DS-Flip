@@ -26,7 +26,7 @@
 > .\m3dsflip yflip <image_path>
 > .\m3dsflip xflip <image_path>
 ```
-### Help Message:
+### Command Explanation:
 ```
 > .\m3dsflip <mode> <command/args> <image_path>
 ```
