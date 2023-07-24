@@ -5,7 +5,7 @@
 - Flips normal *.png Images From Java to MC-3DS.
 - Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
 - Change Color of Compiled *.3DST Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
-- Removed xflip (Hopefully This Release Only) because of a Bug that can cause Data to become corrupted.
+- Grab MetaData of File using **-g** mode.
 
 # Usage:
 ### CLI/CLU Usage:
@@ -20,6 +20,7 @@
 > .\m3dsflip -c -orange <image_path>
 > .\m3dsflip -c -red <image_path>
 > .\m3dsflip -c -blue <image_path>
+> .\m3dsflip -g -meta <image_path>
 
 #  PNG Commands:
 > .\m3dsflip yflip <image_path>
@@ -27,17 +28,17 @@
 ```
 ### Help Message:
 ```
-> .\m3dsflip <mode> <command/Args> <image_path>
+> .\m3dsflip <mode> <command/args> <image_path>
 ```
 ```
 > .\m3dsflip     =  Call Executable
-> <mode>         =  -c (Color Mode **Only use when Changing *.3DST Skin Color/Hue).
+> <mode>         =  -c (Color Mode), -g (Grab Mode).
 > <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
-> <image_path>   =  Path to Image ('xflip' and 'yflip' only support *.png).
+> <image_path>   =  Image Path (If path has "speaces" within it, surround it in quotes. An Example: "C:\Windows\Users\batch user384\skin.png").
 ```
 ## Building:
 ```
-> pyinstaller -F --onefile "m3dsflip.py" --icon="favicon.ico"
+> pyinstaller -F --strip --exclude-module numpy --exclude-module opencv --exclude-module cv2 --onefile "m3dsflip.py" --icon="favicon.ico"
 ```
 ## Source Usage:
 ```
@@ -51,8 +52,7 @@ python m3dsflip.py <mode> <command> <image_path>
 
 
 # Download:
-- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.3.5/m3dsflip.exe).**
-- **Source Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.3.0/m3dsflip_source.zip).**
+- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.4.0/m3dsflip.exe).**
 
 # Image/Video Gallery:
 <p>
