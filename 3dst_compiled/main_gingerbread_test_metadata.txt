@@ -1,0 +1,10 @@
+File Name: main_gingerbread_test.3dst
+Texture Mode: 3
+Skin Width: 64
+Skin Height: 64
+Header Name: 3DST
+MIP Value: 1
+Image Format: RGBA8
+Bit Depth: 8
+Width Checksum: 64
+Height Checksum: 64
