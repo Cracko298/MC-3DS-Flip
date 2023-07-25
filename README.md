@@ -28,11 +28,11 @@
 ```
 ### Command Explanation:
 ```
-> .\m3dsflip <mode> <command/args> <image_path>
+> .\m3dsflip <flag> <command/args> <image_path>
 ```
 ```
 > .\m3dsflip     =  Call Executable
-> <mode>         =  -c (Color Flag), -g (Grab Flag).
+> <flag>         =  -c (Color Flag), -g (Grab Flag).
 > <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
 > <image_path>   =  Image Path (If path has "speaces" within it, surround it in quotes. An Example: "C:\Windows\Users\batch user384\skin.png").
 ```
