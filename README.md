@@ -55,7 +55,7 @@ python m3dsflip.py <mode> <command> <image_path>
 - **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.4.0/m3dsflip.exe).**
 
 ## Upcoming Updates/Patches:
-- **"-g" flag will support grabbing multiple body parts and a "-r" will be added flag to replacing them. (Making it easy to make edits to Compiled .3DST Skins).**
+- **"-g" flag will support grabbing multiple body parts and a "-r" will be added flag to replacing them.**
 - **Proper Flipping of Compiled .3DST Skins.**
 - **Converting Between .PNG and Compiled .3DST Skins.**
 
