@@ -54,7 +54,13 @@ python m3dsflip.py <mode> <command> <image_path>
 # Download:
 - **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.4.0/m3dsflip.exe).**
 
-# Image/Video Gallery:
+## Upcoming Updates/Patches:
+- **"-g" flag will support grabbing multiple body parts and a "-r" will be added flag to replacing them. (Making it easy to make edits to Compiled .3DST Skins).**
+- **Proper Flipping of Compiled .3DST Skins.**
+- **Converting Between .PNG and Compiled .3DST Skins.**
+
+
+# Image Gallery:
 <p>
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/3ae3fe61-8fac-4302-8096-9f5dd22d1fc5" alt="Inverted Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/ba035930-8454-4fe8-867f-35a6b0782d9d" alt="Normal Notch Skin">
@@ -66,5 +72,3 @@ python m3dsflip.py <mode> <command> <image_path>
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/c68fd63c-dd4f-4e46-869b-8b5b263b9a99" alt="Orange Hue Notch Skin">
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/c6e15678-b661-45a2-9646-65c6694e0a59" alt="Blue Hue Notch Skin"> 
 </p>
-
-<embed>https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/500cb648-111f-4c9f-a80b-c91ab71216a8</embed>
