@@ -5,7 +5,7 @@
 - Flips normal *.png Images From Java to MC-3DS.
 - Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
 - Change Color of Compiled *.3DST Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
-- Grab MetaData of File using **-g** mode.
+- Grab MetaData of File using the **-g** flag.
 
 # Usage:
 ### CLI/CLU Usage:
@@ -32,7 +32,7 @@
 ```
 ```
 > .\m3dsflip     =  Call Executable
-> <mode>         =  -c (Color Mode), -g (Grab Mode).
+> <mode>         =  -c (Color Flag), -g (Grab Flag).
 > <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
 > <image_path>   =  Image Path (If path has "speaces" within it, surround it in quotes. An Example: "C:\Windows\Users\batch user384\skin.png").
 ```
