@@ -56,8 +56,11 @@ python m3dsflip.py <mode> <command> <image_path>
 
 ## Road-Map (Updates/Patches):
 **1. finish the "-g" flag (Whicy will support grabbing multiple body parts of both Images).** ***(High Priority)***
+
 **2. A "-r" flag will be added flag to replace body parts with of both .png and .3DST Skins.** ***(Second Priority)***
+
 **3. Proper Flipping of Compiled .3DST Skins.** ***(Hight Priority)***
+
 **4. Converting Between .PNG and Compiled .3DST Skins.** ***(Last Priority)***
 
 
