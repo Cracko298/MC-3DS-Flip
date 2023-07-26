@@ -1,5 +1,6 @@
 # Minecraft-3ds-Image-Flip
-- Flips skins (and more) from Java Edition to be used on Minecraft 3DS. Extremely simple CLI that "just works".
+- An CLI that "Just Works" with Minecraft .3DST Skins and More.
+- Inspired by [@DaniElectra](https://github.com/DaniElectra)'s Anime Channel [3DSTTOOL](https://github.com/DaniElectra/3DSTTool).
 
 # Features:
 - Flips normal *.png Images From Java to MC-3DS.
