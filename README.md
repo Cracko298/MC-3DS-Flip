@@ -25,6 +25,12 @@
 #  PNG Commands:
 > .\m3dsflip yflip <image_path>
 > .\m3dsflip xflip <image_path>
+> .\m3dsflip -g -head <image_path>
+> .\m3dsflip -g -body <image_path>
+> .\m3dsflip -g -larm <image_path>
+> .\m3dsflip -g -rarm <image_path>
+> .\m3dsflip -g -lleg <image_path>
+> .\m3dsflip -g -rleg <image_path>
 ```
 ### Command Explanation:
 ```
@@ -42,7 +48,7 @@
 ```
 ## Source Usage:
 ```
-python m3dsflip.py <mode> <command> <image_path>
+python m3dsflip.py <flag> <command> <image_path>
 ```
 ## Notice:
 - If you decide to change the color/hue of your *.3DST Skin.
@@ -56,9 +62,9 @@ python m3dsflip.py <mode> <command> <image_path>
 
 ## Road-Map (Updates/Patches):
 ```
-1. finish the "-g" flag (Whicy will support grabbing multiple body parts of both Images). *(High Priority)
+1. finish the "-g" flag (Whicy will support grabbing multiple body parts of both Images). *(High Priority | 55% Way There).
 
-2. A "-r" flag will be added flag to replace body parts with of both .PNG and .3DST Skins. *(Second Priority)
+2. A "-r" flag will be added flag to replace body parts with of Compiled .3DST Skins. *(Second Priority)
 
 3. Proper Flipping of Compiled .3DST Skins. *(High Priority)
 
