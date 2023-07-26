@@ -5,7 +5,7 @@
 - Flips normal *.png Images From Java to MC-3DS.
 - Can Flip Compiled *.3dst Files. ***Both X & Y Only Axis ATM***.
 - Change Color of Compiled *.3DST Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
-- Grab MetaData of File using the **-g** flag.
+- Grab Data from Both File Types using the "**-g**" flag in the CLI
 
 # Usage:
 ### CLI/CLU Usage:
@@ -55,6 +55,7 @@ python m3dsflip.py <flag> <command> <image_path>
 - **I am not responsible for any data that might become corrupted, or if the output is not the desired result.**
 - Blurry Images on this GitHub page do NOT reflect the quality (enlarged so you can see them).
 - These Skin Hue Changes do **NOT** work on all skins. Make sure your *.3DST Skin is a compatible size: ***16.0kb***.
+- The "**-g**" Flag can either Grab .3DST MetaData, or Grab .PNG Body Parts currently.
 
 
 # Download:
