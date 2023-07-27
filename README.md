@@ -1,4 +1,4 @@
-# Minecraft-3ds-Image-Flip
+# MC-3DS-Flip
 - An CLI that "Just Works" with Minecraft .3DST Skins and More.
 - Inspired by [@DaniElectra](https://github.com/DaniElectra)'s Anime Channel [3DSTTOOL](https://github.com/DaniElectra/3DSTTool).
 
