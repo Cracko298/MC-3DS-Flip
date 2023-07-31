@@ -54,7 +54,7 @@
 ```
 ## Source Usage:
 ```
-python m3dsflip.py <flag> <command> <image_path>
+python m3dsflip.py <flag> <command/arg> <image_path>
 ```
 ## Notice:
 - If you decide to change the color/hue of your *.3DST Skin.
