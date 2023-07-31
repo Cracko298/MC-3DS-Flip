@@ -77,6 +77,12 @@ python m3dsflip.py <flag> <command> <image_path>
 4. Converting Between .PNG and Compiled .3DST Skins. *(Mid Priority | 50% Way There).
 ```
 
+## Documentation on 3DST:
+### You're In Luck!
+- **I have made a simple [Documentation Repository](https://github.com/Cracko298/MC-3DST-Documentation) so you can make your Own Utilities!**
+- **The "documentation" is a bit technical, so make sure you know how to read/write in Hex Moderately Fluently.**
+
+
 # Image Gallery:
 <p>
     <img width="273" height="273" src="https://github.com/Cracko298/Minecraft-3ds-Image-Flip/assets/78656905/3ae3fe61-8fac-4302-8096-9f5dd22d1fc5" alt="Inverted Notch Skin">
