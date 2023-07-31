@@ -45,7 +45,7 @@
 ```
 > .\m3dsflip     =  Call Executable
 > <flag>         =  -c (Color Flag), -g (Grab Flag), -con (Convert Flag).
-> <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
+> <command/ags>  =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
 > <image_path>   =  Image Path (If path has "speaces" within it, surround it in quotes. An Example: "C:\Windows\Users\batch user384\skin.png").
 ```
 ## Building:
