@@ -23,6 +23,7 @@
 > .\m3dsflip -c -red <image_path>
 > .\m3dsflip -c -blue <image_path>
 > .\m3dsflip -g -meta <image_path>
+> .\m3dsflip -con <3dst_image_path> <png_image_path>
 
 #  PNG Commands:
 > .\m3dsflip yflip <image_path>
@@ -33,6 +34,7 @@
 > .\m3dsflip -g -rarm <image_path>
 > .\m3dsflip -g -lleg <image_path>
 > .\m3dsflip -g -rleg <image_path>
+> .\m3dsflip -con <png_image_path> <3dst_image_path>
 ```
 ### Command Explanation:
 ```
@@ -40,7 +42,7 @@
 ```
 ```
 > .\m3dsflip     =  Call Executable
-> <flag>         =  -c (Color Flag), -g (Grab Flag).
+> <flag>         =  -c (Color Flag), -g (Grab Flag), -con (Convert Flag).
 > <command>      =  Commands Such as "yflip" or "3dstflip" (or Args Such as "-invert" or "-orange").
 > <image_path>   =  Image Path (If path has "speaces" within it, surround it in quotes. An Example: "C:\Windows\Users\batch user384\skin.png").
 ```
@@ -62,17 +64,17 @@ python m3dsflip.py <flag> <command> <image_path>
 
 
 # Download:
-- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.4.5/m3dsflip.exe).**
+- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.5.0/m3dsflip.exe).**
 
 ## Road-Map (Updates/Patches):
 ```
 1. finish the "-g" flag (Whicy will support grabbing multiple body parts of both Images). *(High Priority | 55% Way There).
 
-2. A "-r" flag will be added flag to replace body parts with of Compiled .3DST Skins. *(Second Priority)
+2. A "-r" flag will be added flag to replace body parts with of Compiled .3DST Skins. *(Mid Priority)
 
 3. Proper Flipping of Compiled .3DST Skins. *(High Priority)
 
-4. Converting Between .PNG and Compiled .3DST Skins. *(Last Priority)
+4. Converting Between .PNG and Compiled .3DST Skins. *(Mid Priority | 50% Way There).
 ```
 
 # Image Gallery:
