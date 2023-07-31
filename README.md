@@ -23,7 +23,9 @@
 > .\m3dsflip -c -red <image_path>
 > .\m3dsflip -c -blue <image_path>
 > .\m3dsflip -g -meta <image_path>
-> .\m3dsflip -con <3dst_image_path> <png_image_path>
+> .\m3dsflip -g -head <image_path>
+> .\m3dsflip -con <3dst_image_path>
+
 
 #  PNG Commands:
 > .\m3dsflip yflip <image_path>
@@ -34,7 +36,7 @@
 > .\m3dsflip -g -rarm <image_path>
 > .\m3dsflip -g -lleg <image_path>
 > .\m3dsflip -g -rleg <image_path>
-> .\m3dsflip -con <png_image_path> <3dst_image_path>
+> .\m3dsflip -con <png_image_path>
 ```
 ### Command Explanation:
 ```
