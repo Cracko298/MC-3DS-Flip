@@ -1,0 +1,4 @@
+This Folder ".\src" Folder is for seperate files that makeup the Fully Python File of: ".\m3dsflip.py".
+These might not always be updated or in syncronization with the Main CLI/CLU. Rather these are just the barebones for it to work.
+
+This is really nothing else.
