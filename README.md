@@ -22,6 +22,7 @@
 > .\m3dsflip -c -orange <image_path>
 > .\m3dsflip -c -red <image_path>
 > .\m3dsflip -c -blue <image_path>
+> .\m3dsflip -c -extract <image_path>
 > .\m3dsflip -g -meta <image_path>
 > .\m3dsflip -g -head <image_path>
 > .\m3dsflip -con <3dst_image_path>
