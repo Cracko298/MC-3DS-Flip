@@ -10,6 +10,7 @@
 - Change Color of Compiled *.3DST Files. ***See [CLI/CLU Usage](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/#cliclu-usage) for additional information***.
 - Grab Data from Both File Types using the "**-g**" flag in the CLI
 - Partial Conversion Support (Can Convert Between Both PNG and 3DST Somewhat).
+- Brand new GUI (Graphical) being built from the ground up using some of the code from the CLI (Command-Line).
 
 # Usage:
 ### CLI/CLU Usage:
