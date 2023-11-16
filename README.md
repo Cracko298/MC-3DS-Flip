@@ -70,7 +70,8 @@ python m3dsflip.py <flag> <command/arg> <image_path>
 
 
 # Download:
-- **Compiled Download Avaliable [Here](https://github.com/Cracko298/Minecraft-3ds-Image-Flip/releases/download/v0.5.75/m3dsflip.exe).**
+- **Compiled "CLI" Download Avaliable [Here](https://github.com/Cracko298/MC-3DS-Flip/releases/download/v0.5.75/m3dsflip.exe).**
+- **Compiled "GUI" Download Avaliable [Here](https://github.com/Cracko298/MC-3DS-Flip/releases/download/v0.6.0/pyeethonfile.exe).**
 
 ## Road-Map (Updates/Patches):
 ```
