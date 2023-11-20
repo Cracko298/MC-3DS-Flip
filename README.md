@@ -1,7 +1,7 @@
 [![paypal](https://github.com/Cracko298/ISZ-2021-Plugin/blob/main/payp.png)](https://www.paypal.me/cracko298)
 
 # MC-3DS-Flip
-- An CLI that "Just Works" with Minecraft .3DST Skins and More.
+- An CLI and W.I.P. GUI that "Just Works" with Minecraft .3DST Skins, Textures, and More.
 - Inspired by [@DaniElectra](https://github.com/DaniElectra)'s Anime Channel [3DSTTOOL](https://github.com/DaniElectra/3DSTTool).
 
 # Features:
